@@ -1,29 +1,35 @@
 module.exports = {
-    // theme: 'antdocs', //使用主题 https://antdocs.js.org/
+    theme: 'antdocs', //使用主题 https://antdocs.js.org/
     head: [
         [
             'link',
-            { rel: 'icon', href: '/assets/img/logo2.png' }
+            { rel: 'icon', href: '/assets/img/logo.png' }
         ]
     ],
-    title: 'Guide',
+    title: '萝卜の窝',
     description: 'A Easy Guide for vuepress',
     nextLinks: true,
     prevLinks: true,
     themeConfig: {
+        backToTop: true,
+        isDarkMode: true,
         sidebar: {
             '/guide/': [
                 '',
-                'guide',
+                'pcrclanbattle',
+                'pcrclanbattle2',
                 'guide2',
                 'guide3'
+            ],
+            '/shop/': [
+                '',
             ],
         },
         displayAllHeaders: true,
         //展开sidebar
         logo: '/assets/img/logo.png',
         // 假定是 GitHub. 同时也可以是一个完整的 GitLab URL
-        repo: 'sam5440/vuepress-example',
+        repo: 'https://github.com/samgamebot/samgamebot.github.io',
         // 自定义仓库链接文字。默认从 `themeConfig.repo` 中自动推断为
         // "GitHub"/"GitLab"/"Bitbucket" 其中之一，或是 "Source"。
         repoLabel: '查看源码',
