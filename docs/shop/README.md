@@ -12,11 +12,11 @@
 >
 > 一世纪卡 299.8
 
-![qq](payQr/qq.png)
+![qq](./payQr/qq.png)
 
-![wx](payQr/wx.png)
+![wx](./payQr/wx.png)
 
-![zfb](payQr/zfb.jpg)
+![zfb](./payQr/zfb.jpg)
 
 ## 公共机器人
 
