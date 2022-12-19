@@ -18,8 +18,12 @@ module.exports = {
                 '',
                 'pcrclanbattle',
                 'pcrclanbattle2',
-                'guide2',
-                'guide3'
+                'pcrtools',
+                'pcrgames',
+                'genshin',
+                'otherplay',
+                'othertools',
+                'other',
             ],
             '/shop/': [
                 '',
