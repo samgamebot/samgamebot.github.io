@@ -21,4 +21,12 @@ features:
   details: 采用腾讯云与阿里云服务器(也不是完全可靠就是了)
 footer: GPL3 Licensed | Copyright © 2022 Sam5440
 ---
+
+<a-button type="primary" href="https://qm.qq.com/cgi-bin/qm/qr?k=LOdiwyAuT553K_AJNumxl9NAH7krg53_&authKey=ZhicOv8t0AdBjWBNKE903LS9YyZ7fWL5XDMJLxc7JQxX3FUOoIJzxDgk9ZViDEkT&noverify=0">点击加入 萝卜の窝 群</a-button>
 > 萝卜の窝 群号：790121399
+> 
+> [帮助界面]      请收藏永久地址
+> 
+> [常规地址] help.isam.ltd (经常更换)
+> 
+> [永久地址] samgamebot.github.io
