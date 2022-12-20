@@ -1,3 +1,6 @@
+---
+search: false
+---
 如何购买？
 
 ## [#](http://g.isam.top/Documentation/buy/notes/buy.html#%E6%99%AE%E9%80%9A%E8%B4%AD%E4%B9%B0)普通购买
