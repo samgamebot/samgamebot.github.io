@@ -1,5 +1,6 @@
 module.exports = {
     theme: 'antdocs', //使用主题 https://antdocs.js.org/
+    plugins: ['fulltext-search'], // yarn add -D vuepress-plugin-fulltext-search -D
     head: [
         [
             'link',

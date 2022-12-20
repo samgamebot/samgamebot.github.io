@@ -44,6 +44,7 @@ jobs:
         # run里安装主题
         # pnpm i vuepress-theme-antdocs
         run: |-
+          pnpm i vuepress-plugin-fulltext-search
           pnpm i vuepress-theme-antdocs
           export NODE_OPTIONS=--openssl-legacy-provider
           pnpm run docs:build
