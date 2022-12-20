@@ -12,14 +12,14 @@ actions:
     link: /guide/
     type: primary
     size: large
-  - text: 代挂帮助
-    link: /privatebot/
-    type: primary
-    size: large
-  - text: 用户协议
-    link: /about/
-    type: primary
-    size: large
+  # - text: 代挂帮助
+  #   link: /privatebot/
+  #   type: primary
+  #   size: large
+  # - text: 用户协议
+  #   link: /about/
+  #   type: primary
+  #   size: large
 # features:
 # - title: 廉价
 #   details: 最低月均价低至8元每月!
@@ -31,6 +31,8 @@ actions:
 ---
 <!-- <a-button type="primary" href="https://qm.qq.com/cgi-bin/qm/qr?k=LOdiwyAuT553K_AJNumxl9NAH7krg53_&authKey=ZhicOv8t0AdBjWBNKE903LS9YyZ7fWL5XDMJLxc7JQxX3FUOoIJzxDgk9ZViDEkT&noverify=0">点击加入 萝卜の窝 群</a-button> -->
 
+><a-button type="primary" href="/privatebot/">代挂帮助</a-button>
+> 
 > 萝卜の窝 群号：790121399
 > 
 ><a-button type="primary" href="https://qm.qq.com/cgi-bin/qm/qr?k=LOdiwyAuT553K_AJNumxl9NAH7krg53_&authKey=ZhicOv8t0AdBjWBNKE903LS9YyZ7fWL5XDMJLxc7JQxX3FUOoIJzxDgk9ZViDEkT&noverify=0">点击加入 萝卜の窝 群</a-button>
@@ -40,3 +42,5 @@ actions:
 > [常规地址] help.isam.ltd (经常更换)
 >
 > [永久地址] samgamebot.github.io
+>
+><a-button type="primary" href="/about/">用户协议</a-button>
