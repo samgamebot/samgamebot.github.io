@@ -4,8 +4,8 @@
 
 
 <a-button type="primary" href="../shop/">点击购买</a-button>
-<a-button type="primary" href="../">代挂帮助</a-button>
-<a-button type="primary" href="../">用前需知</a-button>
+<a-button type="primary" href="../privatebot">代挂帮助</a-button>
+<a-button type="primary" href="../about">用前需知</a-button>
 <a-button type="primary" href="../">返回首页</a-button>
 <p></p>
 <a-alert type="info" showIcon>

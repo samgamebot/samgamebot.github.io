@@ -29,6 +29,12 @@ module.exports = {
             '/shop/': [
                 '',
             ],
+            '/privatebot/': [
+                '',
+            ],
+            '/about/': [
+                '',
+            ],
         },
         displayAllHeaders: true,
         //展开sidebar
