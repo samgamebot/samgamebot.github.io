@@ -2,3 +2,6 @@ node_modules
 .temp
 .cache
 docs/.vuepress/dist
+docs/privatebot/test.md
+.gitignore
+docs/privatebot/test2.html
