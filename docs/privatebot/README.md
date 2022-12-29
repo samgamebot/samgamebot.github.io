@@ -59,7 +59,7 @@
 
 下面指令都需要在群内发送
 
-<a-button type="primary" href="[../](https://jq.qq.com/?_wv=1027&k=7OKtDi6u)">点击加入群聊【代挂群】</a-button>
+<a-button type="primary" href="https://jq.qq.com/?_wv=1027&k=7OKtDi6u">点击加入群聊【代挂群】</a-button>
 
 
 ## 2.注册机器人
