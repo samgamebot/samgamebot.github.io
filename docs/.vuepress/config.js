@@ -24,6 +24,7 @@ module.exports = {
                 'genshin',
                 'otherplay',
                 'othertools',
+                'nb2',
                 'other',
             ],
             '/shop/': [
